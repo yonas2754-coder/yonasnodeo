@@ -1,0 +1,19 @@
+{
+  "name": "pytonsc",
+  "version": "1.0.0",
+  "description": "yonas is dome it",
+  "license": "ISC",
+  "author": "yonas",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "csvtojson": "^2.0.14",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "playwright": "^1.57.0"
+  }
+}
